@@ -157,7 +157,7 @@ public:
 			if (arr[i]->KiemTraNongNghiep()) {
 				if (((DatNongNghiep*)arr[i])->KiemTraThoiHan()) {
 					arr[i]->Xuat();
-				};
+				}
 			}
 		}
 	}
