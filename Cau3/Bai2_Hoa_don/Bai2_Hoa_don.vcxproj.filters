@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Bai2_Hoa_don_khach_hang.cpp">
+    <ClCompile Include="Bai2_Hoa_don.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

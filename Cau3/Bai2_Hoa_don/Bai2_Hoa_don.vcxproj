@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{1e3d9075-d2a6-44ff-b82c-a9281198141b}</ProjectGuid>
-    <RootNamespace>Bai2Hoadonkhachhang</RootNamespace>
+    <ProjectGuid>{e0dda308-cc62-44c6-b872-bbefd76554ec}</ProjectGuid>
+    <RootNamespace>Bai2Hoadon</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Bai2_Hoa_don_khach_hang.cpp" />
+    <ClCompile Include="Bai2_Hoa_don.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
